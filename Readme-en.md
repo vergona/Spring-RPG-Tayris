@@ -16,14 +16,16 @@ ATKY - Ar Tel Quessir Years (year 1st - when ATK has been raised into Helor's sk
 + 22.11.1515 ATKY Here begins our story...
 
 ----
+[Readme on english](../master/Readme-en.md)
 
+[На русском](../master/Readme-ru.md)
 ##Line of texts
 Quenta texts (backstory):
- 1. "Tayris. First Gaze" - story about how Tayris met the Yris. Also, sneakpeak to Akia Shrine and Akiary! **Work in progress**
- 2. "Tear to Yris" - Tayris' talisman goes to the mirror plane. **Work in progress**
+ 1. [Tayris. First Gaze](../master/Tayris. First Gaze.md) - story about how Tayris met the Yris. Also, sneakpeak to Akia Shrine and Akiary! **Work in progress**
+ 2. [Tear to Yris](../master/x.md) - Tayris' talisman goes to the mirror plane. **Work in progress**
  In-game texts:
- 3. "Ta'n'Ta. By night" - Rita and Tayris (specifically, *Yris*). Warning, rating!
- 4. "Yris Dream" - just after previous text, Tayris went off to sleep; meeting between Tay and Yris at the dreamsleeve. Topics: iris flowers, Liam, why Tayris doesn't remember dreams most of times.
+ 3. [Ta'n'Ta. By night](../master/Ta'n'Ta. By night.md) - Rita and Tayris (specifically, *Yris*). Warning, rating!
+ 4. [Yris Dream](../master/Yris Dream.md) - just after previous text, Tayris went off to sleep; meeting between Tay and Yris at the dreamsleeve. Topics: iris flowers, Liam, why Tayris doesn't remember dreams most of times.
 
 
 ##Format to texts
