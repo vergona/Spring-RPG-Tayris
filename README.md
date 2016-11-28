@@ -3,8 +3,9 @@ Texts about Tayris and her surroundings.
 
 ATKY - Ar Tel Quessir Years (year 1st - when ATK has been raised into Helor's sky)
 
-[I'm a relative reference to a repository file](../blob/master/Readme-en.md)
-[rus](../blob/master/Readme-ru.md)
+[Readme on english](../master/Readme-en.md)
+
+[На русском](../master/Readme-ru.md)
 
 
 ##Format to texts
