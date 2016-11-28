@@ -26,7 +26,6 @@ Quenta texts (backstory):
  4. "Yris Dream" - just after previous text, Tayris went off to sleep; meeting between Tay and Yris at the dreamsleeve. Topics: iris flowers, Liam, why Tayris doesn't remember dreams most of times.
 
 
-
 ##Format to texts
 = name.
 
