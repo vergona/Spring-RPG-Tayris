@@ -30,7 +30,11 @@ Quenta texts (backstory):
  3. **[Ta'n'Ta. By night]** (../master/Ta'n'Ta. By night.md) - Rita and Tayris (specifically, *Yris*). Warning, rating!
  
  4. **[Yris Dream]** (../master/Yris Dream.md) - just after previous text, Tayris went off to sleep; meeting between Tay and Yris at the dreamsleeve. Topics: iris flowers, Liam, why Tayris doesn't remember dreams most of times.
+ 
+Alternative versions:
 
+ 5. **[Farewell, mirror witch]** (../master/Farewell, mirror witch.md) - fate of Tayris, if the quest of Barc / Tayris / Liam was failed on sending stage.
+ 
 
 ##Format to texts
 = name.
